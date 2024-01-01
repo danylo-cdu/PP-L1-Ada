@@ -1,32 +1,5 @@
-lab1ada.adb:11:16: warning: function "GetArray" is not referenced [-gnatwu]
-lab1ada.adb:48:07: (style) space required
-lab1ada.adb:52:07: (style) space required
-lab1ada.adb:54:07: (style) space required
-lab1ada.adb:56:07: (style) space required
-lab1ada.adb:71:07: (style) space required
-lab1ada.adb:73:07: (style) space required
-lab1ada.adb:87:10: (style) space required
-lab1ada.adb:88:10: (style) space required
-lab1ada.adb:89:10: (style) space required
-lab1ada.adb:91:10: (style) space required
-lab1ada.adb:92:80: (style) this line is too long
-lab1ada.adb:92:96: (style) trailing spaces not permitted
-lab1ada.adb:93:42: (style) trailing spaces not permitted
-lab1ada.adb:94:80: (style) this line is too long
-lab1ada.adb:95:01: (style) trailing spaces not permitted
-lab1ada.adb:102:10: (style) space required
-lab1ada.adb:103:10: (style) space required
-lab1ada.adb:109:07: (style) space required
-lab1ada.adb:116:07: (style) space required
-lab1ada.adb:120:07: (style) space required
-lab1ada.adb:123:07: (style) space required
-lab1ada.adb:135:13: (style) space required
-lab1ada.adb:137:13: (style) space required
-lab1ada.adb:141:19: (style) space required
-lab1ada.adb:147:13: (style) space required
-lab1ada.adb:159:10: (style) space required
-lab1ada.adb:177:07: (style) space required
-lab1ada.adb:181:07: (style) space required
-lab1ada.adb:182:07: (style) space required
-lab1ada.adb:184:07: (style) space required
-lab1ada.adb:192:07: (style) space required
+lab1ada.adb:8:11: warning: file name does not match unit name, should be "main.adb" [enabled by default]
+lab1ada.adb:64:07: warning: "All_Idle" is not referenced [-gnatwu]
+lab1ada.adb:132:07: warning: variable "Is_Idle" is never read and never assigned [-gnatwu]
+lab1ada.adb:234:50: warning: condition is always True [-gnatwc]
+lab1ada.adb:234:50: warning: (see assignment at line 233) [-gnatwc]
